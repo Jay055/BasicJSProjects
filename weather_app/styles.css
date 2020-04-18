@@ -1,0 +1,22 @@
+body{
+    background: white;
+    background-image: url('./img/thomas-morse-cuKKa0vWZSY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%  100%;
+    background-attachment: fixed;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+
+}
+.container{
+    max-width: 400px;
+    /* opacity: 0.95; */
+}
+
+.icon{ 
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px; 
+    margin-bottom: -50px;
+}
